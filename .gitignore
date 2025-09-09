@@ -1,0 +1,31 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Virtual Environment
+.env/
+venv/
+env/
+
+# Database files
+db.sqlite3
+
+# Log files
+*.log
+
+# Media and static files (if collected in a separate directory during development)
+media/
+static_collected/
+
+# IDE specific files (e.g., PyCharm)
+.idea/
+
+# Local settings (containing sensitive information)
+local_settings.py
+
+# Other common ignored files
+.DS_Store
+Thumbs.db
+.coverage
+.tox/
+.eggs/
