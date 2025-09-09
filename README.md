@@ -11,7 +11,7 @@
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/course-students.git
+   git clone https://github.com/linker-luis/entrevista-tecnica-django.git
   
 2. Inicializa y activa un entorno virtual:
     ```bash
